@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\Usingdll\Usingdll\bin\Debug\net8.0\Usingdll.deps.json
+C:\Users\preethu\source\repos\Usingdll\Usingdll\bin\Debug\net8.0\Usingdll.dll
+C:\Users\preethu\source\repos\Usingdll\Usingdll\bin\Debug\net8.0\Usingdll.pdb
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\Usingdll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\Usingdll.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\Usingdll.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\Usingdll.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\Usingdll.dll
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\refint\Usingdll.dll
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\Usingdll.pdb
+C:\Users\preethu\source\repos\Usingdll\Usingdll\obj\Debug\net8.0\ref\Usingdll.dll
