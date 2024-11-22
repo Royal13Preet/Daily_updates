@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\Practice\bin\Debug\Practice.exe.config
+C:\Users\preethu\source\repos\Multithreading\Practice\bin\Debug\Practice.exe
+C:\Users\preethu\source\repos\Multithreading\Practice\bin\Debug\Practice.pdb
+C:\Users\preethu\source\repos\Multithreading\Practice\obj\Debug\Practice.exe
+C:\Users\preethu\source\repos\Multithreading\Practice\obj\Debug\Practice.pdb
