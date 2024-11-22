@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\goodmorning\bin\Debug\goodmorning.exe.config
+C:\Users\preethu\source\repos\Multithreading\goodmorning\bin\Debug\goodmorning.exe
+C:\Users\preethu\source\repos\Multithreading\goodmorning\bin\Debug\goodmorning.pdb
+C:\Users\preethu\source\repos\Multithreading\goodmorning\obj\Debug\goodmorning.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\goodmorning\obj\Debug\goodmorning.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\goodmorning\obj\Debug\goodmorning.exe
+C:\Users\preethu\source\repos\Multithreading\goodmorning\obj\Debug\goodmorning.pdb
