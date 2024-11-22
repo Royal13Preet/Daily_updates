@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\Fileopen\bin\Debug\Fileopen.exe.config
+C:\Users\preethu\source\repos\Multithreading\Fileopen\bin\Debug\Fileopen.exe
+C:\Users\preethu\source\repos\Multithreading\Fileopen\bin\Debug\Fileopen.pdb
+C:\Users\preethu\source\repos\Multithreading\Fileopen\obj\Debug\Fileopen.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\Fileopen\obj\Debug\Fileopen.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\Fileopen\obj\Debug\Fileopen.exe
+C:\Users\preethu\source\repos\Multithreading\Fileopen\obj\Debug\Fileopen.pdb
