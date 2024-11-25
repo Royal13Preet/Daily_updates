@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\ArrayPracrtice\bin\Debug\ArrayPracrtice.exe.config
+C:\Users\preethu\source\repos\practice\ArrayPracrtice\bin\Debug\ArrayPracrtice.exe
+C:\Users\preethu\source\repos\practice\ArrayPracrtice\bin\Debug\ArrayPracrtice.pdb
+C:\Users\preethu\source\repos\practice\ArrayPracrtice\obj\Debug\ArrayPracrtice.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\ArrayPracrtice\obj\Debug\ArrayPracrtice.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\ArrayPracrtice\obj\Debug\ArrayPracrtice.exe
+C:\Users\preethu\source\repos\practice\ArrayPracrtice\obj\Debug\ArrayPracrtice.pdb
