@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\Filewrite\obj\Debug\Filewrite.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\Filewrite\obj\Debug\Filewrite.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\Filewrite\bin\Debug\Filewrite.exe.config
+C:\Users\preethu\source\repos\Multithreading\Filewrite\bin\Debug\Filewrite.exe
+C:\Users\preethu\source\repos\Multithreading\Filewrite\bin\Debug\Filewrite.pdb
+C:\Users\preethu\source\repos\Multithreading\Filewrite\obj\Debug\Filewrite.exe
+C:\Users\preethu\source\repos\Multithreading\Filewrite\obj\Debug\Filewrite.pdb

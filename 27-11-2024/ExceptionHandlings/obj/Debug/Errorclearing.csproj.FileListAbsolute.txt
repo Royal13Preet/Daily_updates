@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\Errorclearing\bin\Debug\Errorclearing.exe.config
+C:\Users\preethu\source\repos\Multithreading\Errorclearing\bin\Debug\Errorclearing.exe
+C:\Users\preethu\source\repos\Multithreading\Errorclearing\bin\Debug\Errorclearing.pdb
+C:\Users\preethu\source\repos\Multithreading\Errorclearing\obj\Debug\Errorclearing.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\Errorclearing\obj\Debug\Errorclearing.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\Errorclearing\obj\Debug\Errorclearing.exe
+C:\Users\preethu\source\repos\Multithreading\Errorclearing\obj\Debug\Errorclearing.pdb

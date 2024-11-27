@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\Constructorsss\bin\Debug\Constructorsss.exe.config
+C:\Users\preethu\source\repos\practice\Constructorsss\bin\Debug\Constructorsss.exe
+C:\Users\preethu\source\repos\practice\Constructorsss\bin\Debug\Constructorsss.pdb
+C:\Users\preethu\source\repos\practice\Constructorsss\obj\Debug\Constructorsss.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\Constructorsss\obj\Debug\Constructorsss.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\Constructorsss\obj\Debug\Constructorsss.exe
+C:\Users\preethu\source\repos\practice\Constructorsss\obj\Debug\Constructorsss.pdb
