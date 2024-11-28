@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\DB_connect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|c:\\users\\preethu\\source\\repos\\db_connect\\migrate\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|solutionrelative:migrate\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|c:\\users\\preethu\\source\\repos\\db_connect\\migrate\\migrate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|solutionrelative:migrate\\migrate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|c:\\users\\preethu\\source\\repos\\db_connect\\migrate\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|solutionrelative:migrate\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|c:\\users\\preethu\\source\\repos\\db_connect\\migrate\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|solutionrelative:migrate\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|c:\\users\\preethu\\source\\repos\\db_connect\\migrate\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|solutionrelative:migrate\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|c:\\users\\preethu\\source\\repos\\db_connect\\migrate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63CE71A-A000-4C4B-ABD1-BC30A9ECDC4A}|Migrate\\Migrate.csproj|solutionrelative:migrate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC79573-7889-4B82-BAE3-15AB7978C584}|DB_connect\\DB_connect.csproj|c:\\users\\preethu\\source\\repos\\db_connect\\db_connect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC79573-7889-4B82-BAE3-15AB7978C584}|DB_connect\\DB_connect.csproj|solutionrelative:db_connect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Migrate\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\SchoolContext.cs",
+              "RelativeToolTip": "Migrate\\SchoolContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:34:25.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "Migrate\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Model\\Course.cs",
+              "RelativeToolTip": "Migrate\\Model\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:32:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Model\\Teacher.cs",
+              "RelativeDocumentMoniker": "Migrate\\Model\\Teacher.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Model\\Teacher.cs",
+              "RelativeToolTip": "Migrate\\Model\\Teacher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:14:57.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Model\\student.cs",
+              "RelativeDocumentMoniker": "Migrate\\Model\\student.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Model\\student.cs",
+              "RelativeToolTip": "Migrate\\Model\\student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:10:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Migrate",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Migrate.csproj",
+              "RelativeDocumentMoniker": "Migrate\\Migrate.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Migrate.csproj",
+              "RelativeToolTip": "Migrate\\Migrate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T11:09:43.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DB_connect\\DB_connect\\Program.cs",
+              "RelativeDocumentMoniker": "DB_connect\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DB_connect\\DB_connect\\Program.cs",
+              "RelativeToolTip": "DB_connect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:54:12.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Program.cs",
+              "RelativeDocumentMoniker": "Migrate\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DB_connect\\Migrate\\Program.cs",
+              "RelativeToolTip": "Migrate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:46:22.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\Users\preethu\source\repos\DB_connect\Migrate\obj\Debug\net8.0\Migrate.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\DB_connect\Migrate\obj\Debug\net8.0\Migrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\DB_connect\Migrate\obj\Debug\net8.0\Migrate.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\DB_connect\Migrate\obj\Debug\net8.0\Migrate.AssemblyInfo.cs
+C:\Users\preethu\source\repos\DB_connect\Migrate\obj\Debug\net8.0\Migrate.csproj.CoreCompileInputs.cache

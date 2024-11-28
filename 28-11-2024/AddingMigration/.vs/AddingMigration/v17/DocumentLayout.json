@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|c:\\users\\preethu\\source\\repos\\addingmigration\\addingmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|solutionrelative:addingmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|c:\\users\\preethu\\source\\repos\\addingmigration\\addingmigration\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|solutionrelative:addingmigration\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|c:\\users\\preethu\\source\\repos\\addingmigration\\addingmigration\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|solutionrelative:addingmigration\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|c:\\users\\preethu\\source\\repos\\addingmigration\\addingmigration\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|solutionrelative:addingmigration\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|c:\\users\\preethu\\source\\repos\\addingmigration\\addingmigration\\schollcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70F9E0-EA1D-4AF9-986B-C78237A507A9}|AddingMigration\\AddingMigration.csproj|solutionrelative:addingmigration\\schollcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchollContect.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\SchollContect.cs",
+              "RelativeDocumentMoniker": "AddingMigration\\SchollContect.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\SchollContect.cs",
+              "RelativeToolTip": "AddingMigration\\SchollContect.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:12:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Model\\Teacher.cs",
+              "RelativeDocumentMoniker": "AddingMigration\\Model\\Teacher.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Model\\Teacher.cs",
+              "RelativeToolTip": "AddingMigration\\Model\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:12:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "AddingMigration\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Model\\Course.cs",
+              "RelativeToolTip": "AddingMigration\\Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:11:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Program.cs",
+              "RelativeDocumentMoniker": "AddingMigration\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Program.cs*",
+              "RelativeToolTip": "AddingMigration\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:09:53.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "AddingMigration\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\AddingMigration\\AddingMigration\\Model\\Student.cs",
+              "RelativeToolTip": "AddingMigration\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:10:34.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
