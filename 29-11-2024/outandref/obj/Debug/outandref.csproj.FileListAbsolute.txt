@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\outandref\bin\Debug\outandref.exe.config
+C:\Users\preethu\source\repos\practice\outandref\bin\Debug\outandref.exe
+C:\Users\preethu\source\repos\practice\outandref\bin\Debug\outandref.pdb
+C:\Users\preethu\source\repos\practice\outandref\obj\Debug\outandref.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\outandref\obj\Debug\outandref.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\outandref\obj\Debug\outandref.exe
+C:\Users\preethu\source\repos\practice\outandref\obj\Debug\outandref.pdb

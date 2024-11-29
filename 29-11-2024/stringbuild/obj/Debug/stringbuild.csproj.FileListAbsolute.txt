@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\stringbuild\bin\Debug\stringbuild.exe.config
+C:\Users\preethu\source\repos\practice\stringbuild\bin\Debug\stringbuild.exe
+C:\Users\preethu\source\repos\practice\stringbuild\bin\Debug\stringbuild.pdb
+C:\Users\preethu\source\repos\practice\stringbuild\obj\Debug\stringbuild.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\stringbuild\obj\Debug\stringbuild.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\stringbuild\obj\Debug\stringbuild.exe
+C:\Users\preethu\source\repos\practice\stringbuild\obj\Debug\stringbuild.pdb
