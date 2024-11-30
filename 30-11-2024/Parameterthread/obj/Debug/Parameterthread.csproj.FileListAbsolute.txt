@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Threading\Parameterthread\bin\Debug\Parameterthread.exe.config
+C:\Users\preethu\source\repos\Threading\Parameterthread\bin\Debug\Parameterthread.exe
+C:\Users\preethu\source\repos\Threading\Parameterthread\bin\Debug\Parameterthread.pdb
+C:\Users\preethu\source\repos\Threading\Parameterthread\obj\Debug\Parameterthread.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Threading\Parameterthread\obj\Debug\Parameterthread.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Threading\Parameterthread\obj\Debug\Parameterthread.exe
+C:\Users\preethu\source\repos\Threading\Parameterthread\obj\Debug\Parameterthread.pdb

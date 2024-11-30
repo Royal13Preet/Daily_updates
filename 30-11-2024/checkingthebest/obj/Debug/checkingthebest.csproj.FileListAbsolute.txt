@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Threading\checkingthebest\bin\Debug\checkingthebest.exe.config
+C:\Users\preethu\source\repos\Threading\checkingthebest\bin\Debug\checkingthebest.exe
+C:\Users\preethu\source\repos\Threading\checkingthebest\bin\Debug\checkingthebest.pdb
+C:\Users\preethu\source\repos\Threading\checkingthebest\obj\Debug\checkingthebest.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Threading\checkingthebest\obj\Debug\checkingthebest.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Threading\checkingthebest\obj\Debug\checkingthebest.exe
+C:\Users\preethu\source\repos\Threading\checkingthebest\obj\Debug\checkingthebest.pdb

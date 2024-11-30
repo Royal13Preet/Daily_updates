@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Threading\lockexample\bin\Debug\lockexample.exe.config
+C:\Users\preethu\source\repos\Threading\lockexample\bin\Debug\lockexample.exe
+C:\Users\preethu\source\repos\Threading\lockexample\bin\Debug\lockexample.pdb
+C:\Users\preethu\source\repos\Threading\lockexample\obj\Debug\lockexample.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Threading\lockexample\obj\Debug\lockexample.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Threading\lockexample\obj\Debug\lockexample.exe
+C:\Users\preethu\source\repos\Threading\lockexample\obj\Debug\lockexample.pdb

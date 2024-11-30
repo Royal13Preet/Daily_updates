@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Threading\prioritythred\bin\Debug\prioritythred.exe.config
+C:\Users\preethu\source\repos\Threading\prioritythred\bin\Debug\prioritythred.exe
+C:\Users\preethu\source\repos\Threading\prioritythred\bin\Debug\prioritythred.pdb
+C:\Users\preethu\source\repos\Threading\prioritythred\obj\Debug\prioritythred.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Threading\prioritythred\obj\Debug\prioritythred.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Threading\prioritythred\obj\Debug\prioritythred.exe
+C:\Users\preethu\source\repos\Threading\prioritythred\obj\Debug\prioritythred.pdb
