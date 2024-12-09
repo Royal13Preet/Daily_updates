@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\models\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\models\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\viewmodels\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\viewmodels\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|c:\\users\\preethu\\source\\repos\\apiwithentitylibrary\\apiwithentitylibrary\\viewmodels\\updaterequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FA260-8047-4B4E-85F9-1FAEFC3D5CFB}|APIwithEntityLibrary\\APIwithEntityLibrary.csproj|solutionrelative:apiwithentitylibrary\\viewmodels\\updaterequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Program.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:04:16.989Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\Book.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:33:04.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:23:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\ViewModels\\userDto.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\ViewModels\\userDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\ViewModels\\userDto.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\ViewModels\\userDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:16:02.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\User.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:13:25.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateRequestVM.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\ViewModels\\UpdateRequestVM.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\ViewModels\\UpdateRequestVM.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\ViewModels\\UpdateRequestVM.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\ViewModels\\UpdateRequestVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:16:16.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bookdto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\ViewModels\\Bookdto.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\ViewModels\\Bookdto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\ViewModels\\Bookdto.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\ViewModels\\Bookdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:21:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mymappingprofile.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\mymappingprofile.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\mymappingprofile.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\mymappingprofile.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\mymappingprofile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:01:11.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:20:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\appsettings.json",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\appsettings.json",
+              "RelativeToolTip": "APIwithEntityLibrary\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T04:10:42.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\BookContext.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Models\\BookContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\BookContext.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Models\\BookContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:39:31.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\Category.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:36:34.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Models\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\BookCategory.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:35:11.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "APIwithEntityLibrary\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEntityLibrary\\APIwithEntityLibrary\\Models\\Author.cs",
+              "RelativeToolTip": "APIwithEntityLibrary\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:33:04.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
