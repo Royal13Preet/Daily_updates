@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\bin\Debug\net8.0\Secureuser.DataAccess.deps.json
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\bin\Debug\net8.0\Secureuser.DataAccess.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\bin\Debug\net8.0\Secureuser.DataAccess.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\bin\Debug\net8.0\Secureuser.Models.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\bin\Debug\net8.0\Secureuser.Models.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureus.DAEB6EDE.Up2Date
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\refint\Secureuser.DataAccess.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\ref\Secureuser.DataAccess.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\bin\Debug\net8.0\Secureuser.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\obj\Debug\net8.0\Secureuser.DataAccess.genruntimeconfig.cache

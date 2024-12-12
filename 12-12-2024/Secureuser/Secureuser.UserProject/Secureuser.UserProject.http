@@ -1,0 +1,6 @@
+@Secureuser.UserProject_HostAddress = http://localhost:5143
+
+GET {{Secureuser.UserProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

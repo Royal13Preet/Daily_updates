@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureuser.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureuser.Services.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureuser.Services.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureuser.Services.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\bin\Debug\net8.0\Secureuser.Services.deps.json
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\bin\Debug\net8.0\Secureuser.Services.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\bin\Debug\net8.0\Secureuser.Services.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\bin\Debug\net8.0\Secureuser.Models.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\bin\Debug\net8.0\Secureuser.Models.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureuser.Services.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureus.FED06C38.Up2Date
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureuser.Services.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\refint\Secureuser.Services.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\Secureuser.Services.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\obj\Debug\net8.0\ref\Secureuser.Services.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\bin\Debug\net8.0\Secureuser.DataAccess.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Services\bin\Debug\net8.0\Secureuser.DataAccess.pdb

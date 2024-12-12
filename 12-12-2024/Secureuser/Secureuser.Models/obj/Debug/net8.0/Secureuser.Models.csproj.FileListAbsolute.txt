@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\bin\Debug\net8.0\Secureuser.Models.deps.json
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\bin\Debug\net8.0\Secureuser.Models.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\bin\Debug\net8.0\Secureuser.Models.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\Secureuser.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\Secureuser.Models.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\Secureuser.Models.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\Secureuser.Models.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\Secureuser.Models.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\refint\Secureuser.Models.dll
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\Secureuser.Models.pdb
+C:\Users\preethu\source\repos\Secureuser\Secureuser.Models\obj\Debug\net8.0\ref\Secureuser.Models.dll

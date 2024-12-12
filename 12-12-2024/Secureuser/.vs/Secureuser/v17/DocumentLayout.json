@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|solutionrelative:secureuser.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|solutionrelative:secureuser.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.models\\viewmodel\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|solutionrelative:secureuser.models\\viewmodel\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.models\\viewmodel\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|solutionrelative:secureuser.models\\viewmodel\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|solutionrelative:secureuser.models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserCreatedto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "RelativeDocumentMoniker": "Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "RelativeToolTip": "Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:22:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\DBModels\\User.cs",
+              "RelativeDocumentMoniker": "Secureuser.Models\\DBModels\\User.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\DBModels\\User.cs",
+              "RelativeToolTip": "Secureuser.Models\\DBModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:22:15.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\ProjectDbContext.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\ProjectDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:22:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:54:38.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:54:36.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loginuserdto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "RelativeDocumentMoniker": "Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "RelativeToolTip": "Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:22:45.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Program.cs",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Program.cs",
+              "RelativeToolTip": "Secureuser.UserProject\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:12:27.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Secureuser.Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\IAuthService.cs",
+              "RelativeToolTip": "Secureuser.Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:21:06.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Secureuser.Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\AuthService.cs",
+              "RelativeToolTip": "Secureuser.Services\\AuthService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:21:09.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:14:04.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
