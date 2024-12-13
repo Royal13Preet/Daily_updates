@@ -63,7 +63,7 @@ namespace WebApplication2.Controllers
             return Ok(new { message = result });
         }
 
-        [HttpPost("delete")]
+        [HttpDelete("delete")]
         public IActionResult DeleteUser([FromBody] string usernameToDelete)
         {
             
