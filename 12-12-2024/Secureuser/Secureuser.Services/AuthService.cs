@@ -31,12 +31,13 @@ namespace Secureuser.Services
                 return "Invalid username or password.";
             }
 
-            var token = GenerateJwtToken(new UserCreatedto
-            {
-                Username = user.Username,
-                Role = user.Role
-            });
-
+            // var token = GenerateJwtToken(new UserCreatedto
+            // {
+            //     Username = user.Username,
+            //     Role = user.Role
+            // });
+             var userDto = _mapper.Map<UserCreatedto>(user);
+             var token = GenerateJwtToken(userDto);
             return token;
         }
 
@@ -48,14 +49,14 @@ namespace Secureuser.Services
                 return "Username already exists.";
             }
 
-            var user = new User
-            {
-                Username = newUser.Username,
-                Password = newUser.Password,
-                Role = newUser.Role
-            };
-            
-
+            // var user = new User
+            // {
+            //     Username = newUser.Username,
+            //     Password = newUser.Password,
+            //     Role = newUser.Role
+            // };
+            var user = _mapper.Map<User>(newUser);
+        
             _userRepository.AddUser(user);
             _userRepository.Save();
 
