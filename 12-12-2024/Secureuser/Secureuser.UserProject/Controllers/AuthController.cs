@@ -25,7 +25,7 @@ namespace WebApplication2.Controllers
 
        
 
-        [HttpPost("login")]
+        [HttpGet("login")]
         public IActionResult Login([FromBody] Loginuserdto loginUser)
         {
             var token = _authService.Login(loginUser);
@@ -88,7 +88,7 @@ namespace WebApplication2.Controllers
            
             return Ok(new { message = result });
         }
-        [HttpGet("users")]
+        [HttpGet("all-users")]
         public IActionResult GetAllUsers()
         {
             var currentUserRole = User.FindFirstValue(ClaimTypes.Role);
